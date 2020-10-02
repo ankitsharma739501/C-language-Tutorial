@@ -1,3 +1,4 @@
+//Program to take the input of ratings
 #include<stdio.h>
 
 int main(){
