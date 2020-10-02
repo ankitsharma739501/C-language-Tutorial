@@ -1,3 +1,4 @@
+//Check wether the number is 1, 2 or 3 using if-else
 #include<stdio.h>
 
 int main(){
@@ -18,7 +19,7 @@ int main(){
     }
     else 
     {
-        printf("Your entered number is not 1,2 and 3\n");
+        printf("Your entered number is not from 1,2 and 3\n");
     }
     
     return 0;
