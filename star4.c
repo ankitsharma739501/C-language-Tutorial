@@ -1,3 +1,16 @@
+/*here's a code to print the pattern
+Hey there! Enter any integer value to print star pattern
+8
+* * * * * * * * 
+ * * * * * * * 
+  * * * * * * 
+   * * * * * 
+    * * * * 
+     * * * 
+      * * 
+       * 
+*/
+
 #include<stdio.h>
 
 int main(){
